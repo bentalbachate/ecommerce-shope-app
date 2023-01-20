@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "154081200638",
+    "project_id": "tigemmi-76627",
+    "storage_bucket": "tigemmi-76627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154081200638:android:0991e0a66b9bef233a98af",
+        "android_client_info": {
+          "package_name": "com.int2.ecommerce_int2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154081200638-f39tkgj8tu35vu18kledcbla1gppn1nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.macyaren.tigemmi",
+            "certificate_hash": "f42aa8d255f456cf0003bc5e5b37245dc0c0c143"
+          }
+        },
+        {
+          "client_id": "154081200638-upob7o238qn4jead6mgl81ols7cjdcbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk4mzie5PKfSlU30eIykXmQfMfCpsaxCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154081200638-upob7o238qn4jead6mgl81ols7cjdcbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
